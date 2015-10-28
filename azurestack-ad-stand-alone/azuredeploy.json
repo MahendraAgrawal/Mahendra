@@ -113,7 +113,8 @@
       "metadata": {
         "description": "The location of resources that the script is dependent on such as linked templates and DSC modules"
       },
-      "defaultValue": "https://raw.githubusercontent.com/honcao/azure-quickstart-templates/master/sql-server-2014-alwayson-dsc"
+      "defaultValue": "https://raw.githubusercontent.com/MahendraAgrawal/Mahendra/master/azurestack-ad-stand-alone"
+        
     },
 
     "location": {
